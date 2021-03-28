@@ -1,10 +1,10 @@
 ### Hi there, I'm [gipey!](https://github.com/gipeypey) 👋
 
 <a href="https://ghifarinur.medium.com/">
-  <img align="left" alt="gipeypey | medium" width="20px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffreebiesupply.com%2Flogos%2Fmedium-logo%2F&psig=AOvVaw3ojtVsI--Dys1YuVdvUixB&ust=1617014502839000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJiwtM_m0u8CFQAAAAAdAAAAABAP" />
+  <img align="left" alt="gipeypey | medium" width="20px" src="https://github.com/Medium/medium-logos/blob/master/01_Logo/03_Two_Color/01_Black_White/PNG/CMYK/Medium-Logo-Two-Color-Black-White-CMYK%401x.png" />
 </a>
 <a href="https://instagram.com/ghifarinap/">
-  <img align="left" alt="gipeypey | insta" width="21px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.logo.wine%2Flogo%2FInstagram&psig=AOvVaw1VnYSflGpwUjPvNFPuQKqQ&ust=1617014565872000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLi_kurm0u8CFQAAAAAdAAAAABAD" />
+  <img align="left" alt="gipeypey | insta" width="21px" src="https://github.com/wle8300/instagram-logo/blob/master/logo.svg" />
 </a>
 
 <br />
