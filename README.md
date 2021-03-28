@@ -21,7 +21,7 @@ a cheerful student who like a netowrk engineer field.
 
 <code><img height="20" src="https://github.com/odb/official-bash-logo/blob/master/assets/Logos/Icons/SVG/24x24.svg"></code>
 <code><img height="20" src="https://i2.wp.com/blog.sribu.com/wp-content/uploads/2015/02/cisco-logo-transparent.png?ssl=1"></code>
-<code><img height="100" src="https://user-images.githubusercontent.com/57078749/112749928-ae59ab80-8fef-11eb-9fd5-9af591e9ddbd.png"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/57078749/112749928-ae59ab80-8fef-11eb-9fd5-9af591e9ddbd.png"></code>
 
 <!--- 
   if you have forked this to use on your profile, 
