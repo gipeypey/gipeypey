@@ -19,7 +19,7 @@ a cheerful student who like a netowrk engineer field.
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://github.com/odb/official-bash-logo/blob/master/assets/Logos/Icons/PNG/16x16.png"></code> 
+<code><img height="20" src="https://github.com/odb/official-bash-logo/blob/master/assets/Logos/Icons/SVG/24x24.svg"></code> 
 
 <!--- 
   if you have forked this to use on your profile, 
