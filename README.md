@@ -19,7 +19,8 @@ a cheerful student who like a netowrk engineer field.
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://github.com/odb/official-bash-logo/blob/master/assets/Logos/Icons/SVG/24x24.svg"></code> 
+<code><img height="20" src="https://github.com/odb/official-bash-logo/blob/master/assets/Logos/Icons/SVG/24x24.svg"></code>
+<code><img height="20" src="https://i2.wp.com/blog.sribu.com/wp-content/uploads/2015/02/cisco-logo-transparent.png?ssl=1"></code> 
 
 <!--- 
   if you have forked this to use on your profile, 
@@ -37,13 +38,4 @@ a cheerful student who like a netowrk engineer field.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gipeypey&layout=compact&theme=material-palenight" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gipeypey&repo=github-readme-stats&theme=material-palenight" />
-</a>    
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gipeypey&repo=anuraghazra.github.io&theme=material-palenight" />
 </a>
