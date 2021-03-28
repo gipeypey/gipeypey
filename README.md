@@ -13,7 +13,7 @@
 a cheerful student who like a netowrk engineer field.
 
 - 🔭 I’m currently insternship on [RadNext Digital Indonesia](http://www.rad.net.id/)
-- 🌱 I’m currently learning administering netowrk on linux
+- 🌱 I’m currently learning administering network on linux
 <!--- - 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) 
 - 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues) --->
 
