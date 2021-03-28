@@ -3,7 +3,8 @@ a cheerful student who like the network engineer field
 <br />
 <br />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gipeypey&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gipeypey&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gipeypey&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 ### Top Language That I Use
 <br />
