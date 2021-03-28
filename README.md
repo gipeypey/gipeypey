@@ -35,6 +35,7 @@ a cheerful student who like a netowrk engineer field.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=gipeypey&show_icons=true&include_all_commits=true&theme=material-palenight" alt="gipeypey github stats" />
 </a>
+<br />
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gipeypey&layout=compact&theme=material-palenight" />
