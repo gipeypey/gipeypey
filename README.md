@@ -1,4 +1,4 @@
-### Hi there, I'm [gipey!](https://github.com/gipeypey) 👋
+### Hi there, I'mm [gipey!](https://github.com/gipeypey) 👋
 
 <a href="https://ghifarinur.medium.com/">
   <img align="left" alt="gipeypey | medium" width="100px" medium" src="https://github.com/Medium/medium-logos/blob/master/01_Logo/03_Two_Color/01_Black_White/PNG/CMYK/Medium-Logo-Two-Color-Black-White-CMYK%401x.png" />
