@@ -1,4 +1,4 @@
-### Hi there, I'mm [gipey!](https://github.com/gipeypey) 👋
+### Hi there, I'm [gipey!](https://github.com/gipeypey) 👋
 
 <a href="https://ghifarinur.medium.com/">
   <img align="left" alt="gipeypey | medium" width="100px" medium" src="https://github.com/Medium/medium-logos/blob/master/01_Logo/03_Two_Color/01_Black_White/PNG/CMYK/Medium-Logo-Two-Color-Black-White-CMYK%401x.png" />
@@ -36,7 +36,3 @@ a cheerful student who like a netowrk engineer field.
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=gipeypey&show_icons=true&include_all_commits=true&theme=material-palenight" alt="gipeypey github stats" />
 </a>
 <br />
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gipeypey&layout=compact&theme=material-palenight" />
-</a>
