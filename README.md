@@ -24,7 +24,7 @@ a cheerful student who like a netowrk engineer field.
 
 <!--- 
   if you have forked this to use on your profile, 
-  Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
+  Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.apph` 
 --->
 
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
