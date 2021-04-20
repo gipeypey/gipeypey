@@ -10,7 +10,7 @@
 <br />
 <br />
 
-a cheerful student who like a netowrk engineer field.
+a cheerful student who like a network engineer field.
 
 - 🔭 I’m currently internship on [RadNext Digital Indonesia](http://www.rad.net.id/)
 - 🌱 currently learning administering network on linux
