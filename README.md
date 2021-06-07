@@ -13,7 +13,7 @@
 a cheerful student who like a network engineer field.
 
 - 🔭 I’m currently internship on [RadNext Digital Indonesia](http://www.rad.net.id/)
-- 🌱 currently learning administering network on linux
+- 🌱 currently learning linux server with ubuntu
 <!--- - 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) 
 - 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues) --->
 
