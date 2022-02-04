@@ -21,7 +21,7 @@ a cheerful student who like a network engineer field.
 
 <code><img height="20" src="https://github.com/odb/official-bash-logo/blob/master/assets/Logos/Icons/SVG/24x24.svg"></code>
 <code><img height="20" src="https://i2.wp.com/blog.sribu.com/wp-content/uploads/2015/02/cisco-logo-transparent.png?ssl=1"></code>
-<code><img height="20" src="https://designs.mikrotik.com/images/mikrotik.png"></code>
+<code><img height="20" src="https://lh3.googleusercontent.com/1DNvFTvd2s4WWdfEkfnSB_ErZ-bdL9c-dvJ7RCu7aW3xOEaF1RcnnAUggRWlrAwQsEg"></code>
 
 <!--- 
   if you have forked this to use on your profile, 
