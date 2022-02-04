@@ -12,7 +12,7 @@
 
 a cheerful student who like a network engineer field.
 
-- 🔭 I’m currently work at [Sekolah At Taufiq](https://www.sekolahattaufiq.id/)
+- 🔭 I’m currently work at [Sekolah At Taufiq](https://www.sekolahattaufiq.id/) as IT infrastructure
 - 🌱 currently learning Proxmox, TrueNas, and MTCNA
 <!--- - 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) 
 - 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues) --->
