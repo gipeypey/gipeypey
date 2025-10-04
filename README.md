@@ -12,8 +12,8 @@
 
 a cheerful student who like a network engineer field.
 
-- 🔭 I’m currently work at [Sekolah At Taufiq](https://www.sekolahattaufiq.id/) as IT infrastructure
-- 🌱 currently learning Proxmox, TrueNas, and MTCNA
+- 🔭 I’m currently work at [Berca Hardayaperkasa](https://www.berca.co.id/) as Technical Product
+- 🌱 currently learning Fortinet, Nutanix, NetApp, and Citrix
 <!--- - 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) 
 - 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues) --->
 
